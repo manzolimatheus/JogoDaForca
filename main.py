@@ -131,7 +131,8 @@ class ascii_art():
 
 # Iniciando arte do título
 ascii_art.titulo()
-print(f'{Fore.CYAN}Github e Behance: /manzolimatheus {Fore.WHITE}')
+print(f'{Fore.CYAN}Github e Behance: /manzolimatheus')
+print(f'* Matheus Manzoli & Raíne Felix - 3ºDS *{Fore.WHITE}')
 
 # Mostrando quantidade de caracteres da palavra secreta
 print(f'Palavra secreta: {preview}')
