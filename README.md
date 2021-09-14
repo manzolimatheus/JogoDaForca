@@ -32,6 +32,7 @@ Para criar o jogo da forca utilizei Python e algumas bibliotecas
 ## 🤔 F.A.Q.
 
 **🤔 Como executar?**
+
 Com o python e a biblioteca colocarama instalados, abra um terminal/PowerShell na pasta de destino do projeto e digite o segundo comando:
 
 Linux:
