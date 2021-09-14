@@ -1,7 +1,7 @@
 
 ## 💀 Jogo da forca em Python
 
-<img src="https://i.imgur.com/Jp9tJWs.png" width="100%">
+<img src="https://i.imgur.com/ReXUU9N.png" width="100%">
 
 ## Sobre
 **🎓 Descrição**
@@ -45,6 +45,6 @@ Windows:
 Você também pode executar abrindo o script em seu editor de código e clicando em executar.
 		
 ## Screenshots
-<img src="https://i.imgur.com/b1bCfrr.png" width="100%">
+<img src="https://i.imgur.com/zuH9S0O.png" width="100%">
 <img src="https://i.imgur.com/y9cucvP.png" width="100%">
 <img src="https://i.imgur.com/e4Civmv.png" width="100%">
